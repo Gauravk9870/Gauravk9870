@@ -6,7 +6,7 @@
 ---------------------------------------------------------------------------------------------
 - 💞️ I’m looking to collaborate on new Ideas or Project
 ---------------------------------------------------------------------------------------------
-- 📫 You contact me on my Linkdin account https://www.linkedin.com/in/gaurav-kumar-993a4a1b0
+- 📫 You contact me on my Linkdin account https://www.linkedin.com/in/gauravkumar9870/
 ---------------------------------------------------------------------------------------------
 
 
