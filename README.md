@@ -13,4 +13,4 @@ I’m looking for an opportunity to work in an environment that will help me pro
 I’m looking to ***collaborate*** on new Ideas or Project
 
 **Contact me on** : 
-https://www.linkedin.com/in/gauravkumar9870/
+https://www.linkedin.com/in/gauravk9870
