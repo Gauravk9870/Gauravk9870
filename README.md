@@ -1,15 +1,14 @@
 # 👋 Hi, I'm Gaurav Kumar
 
 
-I'm a frontend Developer and a quick learner who is passionate about all things in JavaScript 🔥. I care about writing clean code and creating innovative and impactful software solutions. 
+As a Full Stack Developer, I have expertise in both frontend and backend development, using technologies such as React.js, Next.js, Node.js, Express, MongoDB, HTML, CSS, and JavaScript. I have experience in developing SEO-optimized, user-friendly, and dynamic web interfaces, integrating with backend systems and external APIs. I have also contributed to projects such as Chrome extensions and game development, demonstrating my versatility and creativity. I am passionate about learning new skills and exploring new challenges in the field of web development. I am open to work in roles such as Full Stack Developer, Software Engineer, and Web Developer.
 
 ## 🚀 Skills and Technologies
 
-- **HTML5, CSS3, SCSS, JavaScript**
-- **React.js, React Native, NextJs**
-- **Node.js, Express.js, MongoDB**
-- **Firebase, Oracle SQL, APIs**
-- **Web design, Canva**
+- **Next.Js, React.js**
+- **Node.js, Express, MongoDB, PostgreSQL**
+- **HTML, CSS, JavaScript, Tailwind**
+- **Socket.io, Chrome Extension**
 
 ## 💻 Projects
 
