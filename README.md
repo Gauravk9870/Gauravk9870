@@ -8,6 +8,13 @@
 ### Full Stack Developer  
 **Underpin Services** | FEB 2023 – Present, New Delhi  
 
+#### Betting Paradize - Sports Betting Platform
+- Led a team to build a scalable sports betting platform following a microservices architecture.
+- Designed the betting system and developed the flow for processing bets efficiently.
+- Used Redis for caching and implemented Pub/Sub for inter-service communication to ensure efficient data synchronization across services.
+- Integrated both Server-Sent Events (SSE) and Socket.IO to handle real-time notifications, providing instant updates to users and services.
+- Focused on system design to ensure seamless communication, fault tolerance, and high availability.
+
 #### Milkyway Casino - Online Gaming Platform | [preview](https://www.milkyway-casino.com)
 - Led the team in implementing the platform using Next.js and Tailwind CSS, ensuring layout consistency with Figma designs and accessibility across all devices.
 - Enhanced website performance by optimizing images and reducing API calls, resulting in 30% improvement in load time and 25% reduction in server load.
