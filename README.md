@@ -8,7 +8,7 @@
 ### Full Stack Developer  
 **Underpin Services** | FEB 2023 – Present, New Delhi  
 
-#### Milkyway Casino - Online Gaming Platform | [https://www.milkyway-casino.com](https://www.milkyway-casino.com)
+#### Milkyway Casino - Online Gaming Platform | [preview](https://www.milkyway-casino.com)
 - Led the team in implementing the platform using Next.js and Tailwind CSS, ensuring layout consistency with Figma designs and accessibility across all devices.
 - Enhanced website performance by optimizing images and reducing API calls, resulting in 30% improvement in load time and 25% reduction in server load.
 - Designed and developed secure and high-performance REST APIs for the CRM and gaming platform using Node.js, Express, and MongoDB.
