@@ -14,17 +14,17 @@
 - Designed and developed secure and high-performance REST APIs for the CRM and gaming platform using Node.js, Express, and MongoDB.
 - Provided guidance on CRM implementation, conducted code reviews, and maintained high code quality, boosting team productivity and project success.
 
-#### Bulk Messenger | [https://www.loom.com/share/3039bc6c6fdb4775830bbf4044525233?sid=c24f4396-ed29-4a68-8555-ee886f66ed08](https://www.loom.com/share/3039bc6c6fdb4775830bbf4044525233?sid=c24f4396-ed29-4a68-8555-ee886f66ed08)
+#### Bulk Messenger | [preview](https://www.loom.com/share/3039bc6c6fdb4775830bbf4044525233?sid=c24f4396-ed29-4a68-8555-ee886f66ed08)
 - Built a Chrome extension using React.js, CSS, and WebSockets to send multiple messages to multiple users at scheduled times.
 - Developed the backend with Node.js, Express, and PostgreSQL, handling message scheduling using node-cron and managing WebSocket reconnections for reliable message delivery.
 - Automated the sending of messages to Facebook users at different times using WebSockets, ensuring 99% message delivery rate and 50% faster message scheduling compared to previous systems.
 
-#### Teleparty | [https://www.teleparty.pro](https://www.teleparty.pro)
+#### Teleparty | [preview](https://www.teleparty.pro)
 - Built the user interface of the Chrome extension using React.js and CSS, ensuring a seamless user experience for watching OTT content together with live video calling and chatting.
 - Managed real-time messaging using Socket.io, allowing users to chat while watching content on more than 10 OTT platforms, including Netflix, Prime Video, and YouTube.
 - Developed an emoji shower feature, enabling users to trigger emoji animations during video calls. Achieved 713 users, demonstrating the extension's popularity and effectiveness.
 
-#### Record Bro | [https://www.recordbro.com](https://www.recordbro.com)
+#### Record Bro | [preview](https://www.recordbro.com)
 - Developed a Chrome extension that allows users to record their screen and camera simultaneously, supporting functionality across the entire window.
 - Implemented screen blurring to hide sensitive information during recording and added annotation tools for drawing on the screen to enhance content explanation.
 - Achieved 5800 downloads, demonstrating user demand and the extension's effectiveness.
