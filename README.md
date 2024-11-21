@@ -1,7 +1,7 @@
 
 # Gaurav Kumar
 **Full Stack Developer**  
-9871311597 | Chhawla New Delhi | gauravk8920@gmail.com  
+New Delhi | gauravk8920@gmail.com  
 
 ## Experience
 
