@@ -38,7 +38,7 @@ New Delhi | gauravk8920@gmail.com
 
 ## Skills
 **Frontend**: JavaScript • Next.js • ReactJS • Redux • HTML • CSS • TailwindCSS • Typescript • SASS  
-**Backend**: Node.js • Express.js • MongoDB • PostgreSQL • Socket.io • Puppeteer.js  
+**Backend**: Node.js • Express.js • MongoDB • PostgreSQL • Socket.io • Puppeteer.js  •  Redis
 **Others**: Git • GitHub • Postman • VS code • Vercel • Render • Cloudinary • Chrome Extensions  
 
 ## Education
