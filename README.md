@@ -9,6 +9,6 @@
 
 <br/>
 
-[Portfolio](https://gauravkumar.vercel.app) • [LinkedIn](https://linkedin.com/in/gauravk9870) • [GitHub](https://github.com/TrippyGaurav)
+[Portfolio](https://gauravkumar.vercel.app) • [LinkedIn](https://linkedin.com/in/gauravk9870) • [GitHub](https://github.com/Gauravk9870)
 
 </div>
